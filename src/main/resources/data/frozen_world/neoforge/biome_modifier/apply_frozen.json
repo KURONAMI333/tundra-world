@@ -8,19 +8,19 @@
       "distribution": "uniform"
     },
     "surface_anchor": {
-      "type": "isekai:world_surface"
+      "type": "isekai_api:world_surface"
     },
     "ore_strategy": {
-      "type": "isekai:identity"
+      "type": "isekai_api:identity"
     },
     "structure_strategy": {
-      "type": "isekai:identity"
+      "type": "isekai_api:identity"
     },
     "mob_spawn_strategy": {
-      "type": "isekai:identity"
+      "type": "isekai_api:identity"
     },
     "default_structure_predicate": {
-      "type": "isekai:y_in_range",
+      "type": "isekai_api:y_in_range",
       "min": -64,
       "max": 320
     },
